@@ -1,6 +1,9 @@
 # Driver Fatigue & Distraction Detection (DMS) 🚗
 
-Bu proje; bilgisayarlı görü (Computer Vision) tekniklerini kullanarak sürücü davranışlarını analiz eden, yorgunluk ve dikkat dağınıklığını gerçek zamanlı olarak tespit eden bir **Sürücü İzleme Sistemi (DMS)** prototipidir. 
+Bu proje; bilgisayarlı görü (Computer Vision) tekniklerini kullanarak sürücü davranışlarını analiz eder 
+-Yorgunluk, 
+-Uyku, 
+-Dikkat dağınıklığını gerçek zamanlı olarak tespit eden ve bu durumlarda sesli ve yazılı uyarı veren bir **Sürücü İzleme Sistemi (DMS)** prototipidir. 
 
 Sistem, sürücünün biyometrik verilerini anlık olarak işleyerek güvenli sürüşü desteklemek amacıyla geliştirilmiştir.
 
