@@ -1,0 +1,5 @@
+# Videoları ve dat dosyalarını yükleme
+*.mp4
+*.dat
+__pycache__/
+.vscode/
