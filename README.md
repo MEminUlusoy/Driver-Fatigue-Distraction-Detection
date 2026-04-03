@@ -2,7 +2,7 @@
 
 ## 🎯 Proje Hakkında
 
-Bu proje; **bilgisayarlı görü (Computer Vision)** tekniklerini kullanarak sürücü davranışlarını analiz eden bir **Sürücü İzleme Sistemi (DMS)** prototipidir. 
+Bu proje; **bilgisayarlı görü (Computer Vision)** tekniklerini kullanarak sürücü davranışlarını analiz eden bir **Sürücü İzleme Sistemi (DMS)** projesidir. 
 
 Sistem, aşağıdaki durumları gerçek zamanlı olarak tespit ederek sürücüye anlık **sesli ve yazılı uyarılar** gönderir:
 
